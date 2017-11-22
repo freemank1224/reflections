@@ -1,0 +1,1 @@
+When we initiate repository, git will create a hidden folder called .git, which contains information for version control.
